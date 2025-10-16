@@ -6,7 +6,7 @@ public class TextAnalyticsExample {
     public static void main(String[] args) throws Exception {
         // Substitua pelos seus dados
         String endpoint = "https://exercicio-4-ti2.cognitiveservices.azure.com/";
-        String apiKey = "3ymQH9lT6BFA6dCKNZVUGyBYL1kDAwniDag6JIslMh8NxQnAmMGfJQQJ99BJACZoyfiXJ3w3AAAEACOGdFUp";
+        String apiKey = "minha-chave-aqui";
         String path = "/text/analytics/v3.0/sentiment";
 
         // Texto para análise
