@@ -1,5 +1,5 @@
 # Exercício 4 – Computação em Nuvem  
-**Disciplina:** Tecnologias para Internet II (TI 2)  
+**Disciplina:** Trabalho Interdisciplinar II (TI 2)  
 **Aluno:** Matheus Meirelles Gomes  
 **Instituição:** PUC Minas Lourdes
 
